@@ -1,0 +1,96 @@
+body {
+    width: 100%;
+transition: all 0.5s ease;
+
+}
+
+
+
+.navbar {
+    min-width: 1240px;
+}
+
+.header_section {
+    /* background-color: red; */
+    /* border: 2px solid green; */
+    width: inherit;
+
+    /* margin: auto; */
+}
+
+
+
+.third_section {
+    width: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.parent {
+    width: auto;
+    height: auto;
+    margin: none;
+}
+
+.star-rating {
+    left: 0px;
+    top: 74%;
+}
+
+.box_container {
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+}
+
+
+.box_container .previous {
+    display: flex;
+}
+
+.box_container .cards {
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 3px solid green; */
+    width: 1000px;
+    gap: 20px;
+}
+
+.fourth_section {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+}
+
+
+.fifth_section {
+    width: 1200px;
+}
+
+.sixth {
+    /* border: 3px solid red; */
+    height: max-content !important;
+}
+
+
+.sixth .box_container {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* border: 2px solid green; */
+    height: auto;
+    width: 1000px;
+}
+
+.seventh_section {
+    /* margin-top: 20px; */
+}
+
+
+.contact_section {
+    width: 1200px;
+}

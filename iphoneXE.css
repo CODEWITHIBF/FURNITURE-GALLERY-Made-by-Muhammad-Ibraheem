@@ -1,0 +1,57 @@
+.third_section .parent {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    width: 600px;
+    /* height: 900px; */
+    margin: auto;
+    /* border: 3px solid red; */
+    position: static;
+}
+
+.third_section .image1 {
+    width: 100%;
+    background-color: white;
+}
+
+.third_section .design {
+    width: 100%;
+    /* border: 3px solid blue; */
+
+
+}
+
+
+.design .image {
+    width: 100%;
+    background-color: white;
+}
+
+.design .image img {
+    width: 100%;
+
+}
+
+
+.fourth_div {
+    margin-top: 35%;
+}
+
+.box_container .cards {
+    width: 900px;
+}
+
+
+.fifth_section {
+    display: grid;
+    grid-template-columns: none;
+    grid-template-rows: auto auto;
+    gap: 30px;
+}
+
+
+.sixth .box_container{
+    width: 900px;
+
+}
+
